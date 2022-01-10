@@ -1,0 +1,18 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./test"
+  },
+  "keywords": [
+    "codewars",
+    "challenge",
+    "kata",
+    "practice",
+    "algorithms"
+  ],
+  "author": "",
+  "license": "MIT"
+}
